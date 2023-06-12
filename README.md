@@ -18,3 +18,5 @@ make
 - Make colors configurable
 - Add random colors when there are more patterns than available colors?
 - Allow cgrep to worked when piped (to read stdin)
+- Allow search on multiple files, or recursively? Might cause issues as the
+  whole file output is printed.

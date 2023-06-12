@@ -1,6 +1,6 @@
 # cgrep
 
-Wrapper around (e)grep to match multiple patterns, output the whole searched file and hightlight the search matches.
+Wrapper around (e)grep to match multiple patterns, output the whole searched file and highlight the search matches.
 
 ## Usage
 
